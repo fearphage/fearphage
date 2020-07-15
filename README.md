@@ -11,4 +11,7 @@ I'm currently working at GLG on the DevOps team. I've helped move our team from 
 technology to more modern Docker-based deployments.
 
 <!--START_SECTION:waka-->
+```text
+
+```
 <!--END_SECTION:waka-->
