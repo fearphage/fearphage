@@ -12,12 +12,10 @@ technology to more modern Docker-based deployments.
 
 <!--START_SECTION:waka-->
 ```text
-Week #29 : July 13 - 18
-
-Bash        15 mins             ██████████░░░░░░░░░░░░░░░   40.46% 
-JavaScript  7 mins              ████░░░░░░░░░░░░░░░░░░░░░   19.21% 
-YAML        6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.47% 
-Other       6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.53% 
-JSON        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.81%
+CoffeeScript32 mins             ████████░░░░░░░░░░░░░░░░░   35.24 % 
+Bash        15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Other       14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Makefile    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+YAML        9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.31 %
 ```
 <!--END_SECTION:waka-->
