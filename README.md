@@ -12,10 +12,10 @@ technology to more modern Docker-based deployments.
 
 <!--START_SECTION:waka-->
 ```text
-Docker         35 mins         ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-CoffeeScript   32 mins         █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-Other          26 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Bash           16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Makefile       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+Docker         1 hr 31 mins    ████████░░░░░░░░░░░░░░░░░   32.24 % 
+YAML           1 hr 8 mins     ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+Other          1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░   23.33 % 
+CoffeeScript   32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Makefile       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 ```
 <!--END_SECTION:waka-->
