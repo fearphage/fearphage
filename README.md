@@ -12,10 +12,10 @@ technology to more modern Docker-based deployments.
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 23 mins   ███████████████████░░░░░░   76.54 % 
-Other        41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-YAML         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-JSON         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-VimL         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+JavaScript   3 hrs 12 mins   ███████████████░░░░░░░░░░   63.24 % 
+Other        41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+YAML         41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+JSON         24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 <!--END_SECTION:waka-->
