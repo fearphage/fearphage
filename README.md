@@ -10,7 +10,7 @@ environments up to date, and single-responsibility apps.
 I'm currently working at GLG on the DevOps team. I've helped move our team from antiquated
 technology to more modern Docker-based deployments.
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka--
 ```text
 JavaScript     1 hr 1 min      ███████████████░░░░░░░░░░   60.45 % 
 CoffeeScript   18 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.46 % 
@@ -19,3 +19,5 @@ JSON           7 mins          █░░░░░░░░░░░░░░░�
 Makefile       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
 ```
 <!--END_SECTION:waka-->
+
+![fearphage stats](https://github-readme-stats.vercel.app/api?username=fearphage&show_icons=true&theme=dark)
